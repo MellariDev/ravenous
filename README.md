@@ -9,6 +9,11 @@ The API has been removed from the code and thus will no longer work. If you'd li
 If you wish to test the app for yourself you must run it locally as long as you have your own API key as stated above. This can be done by creating a clone of the project and entering your API key in the Yelp.js file where it says 'userAPI' on line 1. Once these conditions have been met type 'npm start' into the console to start the app on the local host.
 
 ========================================================
-## Screenshot
+
+## Functionality overview 
+
+In this application the client may conduct searches based on food type and location to pull results and rakinings from Yelp. Results may be sorted by best match, highest rated, or most reviewed.
+
+## Screenshots
 
 ![ravenous-project](https://user-images.githubusercontent.com/38704018/152463566-e9b3bce7-7e7c-4c80-a6e5-08794fee4f80.png)
